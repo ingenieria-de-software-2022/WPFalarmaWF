@@ -1,0 +1,14 @@
+﻿<Window x:Class="WPFalarmaWF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFalarmaWF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="buttonAlarm" Content="Alarma" HorizontalAlignment="Left" Margin="74,116,0,0" VerticalAlignment="Top" Height="36" Width="70" Background="#FFE64141" Foreground="White" FontSize="16" Click="buttonAlarm_Click"/>
+        <Frame x:Name="frame" Content="Frame" Margin="245,47,65,47" Background="#FFF3FAFF"/>
+
+    </Grid>
+</Window>

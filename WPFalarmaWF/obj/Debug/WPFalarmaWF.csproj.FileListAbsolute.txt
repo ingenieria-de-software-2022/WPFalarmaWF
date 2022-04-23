@@ -1,0 +1,17 @@
+C:\Users\lange\Downloads\ingenieria-de-software\WPFalarmaWF\WPFalarmaWF\bin\Debug\WPFalarmaWF.exe.config
+C:\Users\lange\Downloads\ingenieria-de-software\WPFalarmaWF\WPFalarmaWF\bin\Debug\WPFalarmaWF.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFalarmaWF\WPFalarmaWF\bin\Debug\WPFalarmaWF.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\WPFalarmaWF\WPFalarmaWF\obj\Debug\WPFalarmaWF.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFalarmaWF\WPFalarmaWF\obj\Debug\WPFalarmaWF.csproj.SuggestedBindingRedirects.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFalarmaWF\WPFalarmaWF\obj\Debug\MainWindow.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFalarmaWF\WPFalarmaWF\obj\Debug\App.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFalarmaWF\WPFalarmaWF\obj\Debug\WPFalarmaWF_MarkupCompile.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFalarmaWF\WPFalarmaWF\obj\Debug\WPFalarmaWF_MarkupCompile.lref
+C:\Users\lange\Downloads\ingenieria-de-software\WPFalarmaWF\WPFalarmaWF\obj\Debug\MainWindow.baml
+C:\Users\lange\Downloads\ingenieria-de-software\WPFalarmaWF\WPFalarmaWF\obj\Debug\WPFalarmaWF.g.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFalarmaWF\WPFalarmaWF\obj\Debug\WPFalarmaWF.Form1.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFalarmaWF\WPFalarmaWF\obj\Debug\WPFalarmaWF.Properties.Resources.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFalarmaWF\WPFalarmaWF\obj\Debug\WPFalarmaWF.csproj.GenerateResource.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFalarmaWF\WPFalarmaWF\obj\Debug\WPFalarmaWF.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFalarmaWF\WPFalarmaWF\obj\Debug\WPFalarmaWF.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFalarmaWF\WPFalarmaWF\obj\Debug\WPFalarmaWF.pdb
